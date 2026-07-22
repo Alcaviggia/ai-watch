@@ -1,4 +1,5 @@
-<img width="742" height="382" alt="readme-image" src="https://github.com/user-attachments/assets/27e2d3cf-0fb3-4df6-8742-1a15f8c17b65" />
+<img width="1179" height="1072" alt="Screenshot 2026-07-22 at 12 38 12" src="https://github.com/user-attachments/assets/cf3856f3-fb30-4dac-94e4-8c9c6fdfe66c" />
+
 # AI-Watch
 
 > Give your AI a sense of time.
