@@ -1,4 +1,6 @@
-<img width="1179" height="1072" alt="Screenshot 2026-07-22 at 12 38 12" src="https://github.com/user-attachments/assets/cf3856f3-fb30-4dac-94e4-8c9c6fdfe66c" />
+<img width="742" height="382" alt="readme-image" src="https://github.com/user-attachments/assets/97e3a33b-c9f5-4b43-94d1-0707a77c421e" />
+
+
 
 # AI-Watch
 
