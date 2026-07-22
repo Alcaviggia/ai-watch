@@ -1,3 +1,4 @@
+<img width="742" height="382" alt="readme-image" src="https://github.com/user-attachments/assets/27e2d3cf-0fb3-4df6-8742-1a15f8c17b65" />
 # AI-Watch
 
 > Give your AI a sense of time.
