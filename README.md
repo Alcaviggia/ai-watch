@@ -1,6 +1,6 @@
 # AI-Watch
 
-> Give your AI a watch.
+> Give your AI a sense of time.
 
 Local time context for AI chat interfaces — date, exact time, timezone,
 session length, and time elapsed since your last message. 100% local — zero
